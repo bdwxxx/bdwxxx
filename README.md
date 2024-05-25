@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Skills
 - **Programming Languages**: JavaScript, HTML, CSS
 - **Frontend**: React.js, Next.js, HTML5, CSS3
