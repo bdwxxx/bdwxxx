@@ -1,8 +1,8 @@
 ## Skills
-- **Programming Languages**: JavaScript, HTML, CSS, 
+- **Programming Languages**: JavaScript (TypeScript), HTML, CSS, 
 - **Frontend**: React.js, Next.js, HTML5, CSS3
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB
+- **Backend**: Node.js, Express.js, NestJS
+- **Databases**: MongoDB, Postgres
 - **Version Control**: Git, GitHub
 
 
